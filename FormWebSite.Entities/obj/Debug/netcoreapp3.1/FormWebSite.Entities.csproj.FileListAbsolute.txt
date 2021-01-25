@@ -1,0 +1,12 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netcoreapp3.1\FormWebSite.Entities.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netcoreapp3.1\FormWebSite.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netcoreapp3.1\FormWebSite.Entities.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netcoreapp3.1\FormWebSite.Core.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netcoreapp3.1\FormWebSite.Core.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netcoreapp3.1\FormWebSite.Entities.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netcoreapp3.1\FormWebSite.Entities.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netcoreapp3.1\FormWebSite.Entities.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netcoreapp3.1\FormWebSite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netcoreapp3.1\FormWebSite.Entities.csproj.CopyComplete
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netcoreapp3.1\FormWebSite.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netcoreapp3.1\FormWebSite.Entities.pdb

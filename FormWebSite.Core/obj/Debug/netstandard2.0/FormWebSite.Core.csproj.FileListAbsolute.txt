@@ -1,0 +1,9 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\bin\Debug\netstandard2.0\FormWebSite.Core.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\bin\Debug\netstandard2.0\FormWebSite.Core.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\bin\Debug\netstandard2.0\FormWebSite.Core.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netstandard2.0\FormWebSite.Core.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netstandard2.0\FormWebSite.Core.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netstandard2.0\FormWebSite.Core.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netstandard2.0\FormWebSite.Core.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netstandard2.0\FormWebSite.Core.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netstandard2.0\FormWebSite.Core.pdb

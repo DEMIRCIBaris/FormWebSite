@@ -1,0 +1,9 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netstandard2.0\FormWebSite.Entities.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netstandard2.0\FormWebSite.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\bin\Debug\netstandard2.0\FormWebSite.Entities.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netstandard2.0\FormWebSite.Entities.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netstandard2.0\FormWebSite.Entities.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netstandard2.0\FormWebSite.Entities.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netstandard2.0\FormWebSite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netstandard2.0\FormWebSite.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Entities\obj\Debug\netstandard2.0\FormWebSite.Entities.pdb

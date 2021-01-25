@@ -1,0 +1,8 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\bin\Debug\netcoreapp3.1\FormWebSite.Core.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\bin\Debug\netcoreapp3.1\FormWebSite.Core.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\bin\Debug\netcoreapp3.1\FormWebSite.Core.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netcoreapp3.1\FormWebSite.Core.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netcoreapp3.1\FormWebSite.Core.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netcoreapp3.1\FormWebSite.Core.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netcoreapp3.1\FormWebSite.Core.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Core\obj\Debug\netcoreapp3.1\FormWebSite.Core.pdb

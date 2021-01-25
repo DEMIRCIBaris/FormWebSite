@@ -1,0 +1,9 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netstandard2.0\FormWebSite.Bussiness.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netstandard2.0\FormWebSite.Bussiness.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netstandard2.0\FormWebSite.Bussiness.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netstandard2.0\FormWebSite.Bussiness.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netstandard2.0\FormWebSite.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netstandard2.0\FormWebSite.Bussiness.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netstandard2.0\FormWebSite.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netstandard2.0\FormWebSite.Bussiness.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netstandard2.0\FormWebSite.Bussiness.pdb

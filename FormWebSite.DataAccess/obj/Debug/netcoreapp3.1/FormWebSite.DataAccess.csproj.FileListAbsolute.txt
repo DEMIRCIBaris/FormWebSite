@@ -1,0 +1,17 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.DataAccess.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.DataAccess.runtimeconfig.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.DataAccess.runtimeconfig.dev.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.DataAccess.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.DataAccess.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.Core.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.Core.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\bin\Debug\netcoreapp3.1\FormWebSite.Entities.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.csproj.CopyComplete
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.DataAccess\obj\Debug\netcoreapp3.1\FormWebSite.DataAccess.genruntimeconfig.cache

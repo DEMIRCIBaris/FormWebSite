@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FormWebSite.Core\FormWebSite.Core.csproj" />
+    <ProjectReference Include="..\FormWebSite.DataAccess\FormWebSite.DataAccess.csproj" />
+    <ProjectReference Include="..\FormWebSite.Entities\FormWebSite.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

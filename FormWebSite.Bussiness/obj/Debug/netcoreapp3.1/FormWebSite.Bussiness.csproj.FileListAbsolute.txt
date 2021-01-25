@@ -1,0 +1,16 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.Bussiness.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.Bussiness.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.Bussiness.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.Core.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.DataAccess.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.Core.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.DataAccess.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\bin\Debug\netcoreapp3.1\FormWebSite.Entities.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netcoreapp3.1\FormWebSite.Bussiness.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netcoreapp3.1\FormWebSite.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netcoreapp3.1\FormWebSite.Bussiness.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netcoreapp3.1\FormWebSite.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netcoreapp3.1\FormWebSite.Bussiness.csproj.CopyComplete
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netcoreapp3.1\FormWebSite.Bussiness.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.Bussiness\obj\Debug\netcoreapp3.1\FormWebSite.Bussiness.pdb
