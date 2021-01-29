@@ -13,21 +13,28 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 1 "C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.WEB\Views\_ViewImports.cshtml"
-using FormWebSite.WEB;
+#line 3 "C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.WEB\Views\_ViewImports.cshtml"
+using FormWebSite.Entities.DTO.AppUserDTO;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.WEB\Views\_ViewImports.cshtml"
-using FormWebSite.WEB.Models;
+#line 6 "C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.WEB\Views\_ViewImports.cshtml"
+using FormHelper;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 8 "C:\Users\Barış DEMİRCİ\Source\Repos\FormWebSite\FormWebSite.WEB\Views\_ViewImports.cshtml"
+using FormWebSite.Entities.Concrete;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7a5ff374bc9a8c9e97cb70142916bcac7331597c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"216ef606f455a618659d105b05a7d2e351136805", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

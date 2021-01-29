@@ -12,9 +12,14 @@ namespace FormWebSite.Bussiness.Mappers.AutoMapper
             CreateMap<UserAddDto, AppUser>();
             CreateMap<AppUser, UserAddDto>();
 
+            CreateMap<UserUpdateDto, AppUser>();
+            CreateMap<AppUser, UserUpdateDto>();
+
             CreateMap<AppUser, UserSignInDto>();
             CreateMap<UserSignInDto, AppUser>();
             #endregion
+
+         
         }
     }
 }

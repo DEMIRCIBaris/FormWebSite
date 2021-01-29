@@ -13,6 +13,19 @@ namespace FormWebSite.Bussiness.Extensions.DIResolvers
             services.AddScoped<IAppUserService, AppUserService>();
             services.AddScoped<IAppUserDal, EfAppUserDal>();
             services.AddScoped<IMapperService, MapperService>();
+            services.AddScoped<IGenderService, GenderService>();
+            services.AddScoped<IGenderDal, EfGenderDal>();
+            services.AddScoped<IStudyDal, EfStudyDal>();
+            services.AddScoped<IStudyService, StudyService>();
+            services.AddScoped<IEducationDal, EfEducationDal>();
+            services.AddScoped<IEducationService, EducationService>();
+            services.AddScoped<IProgramDal, EfProgramDal>();
+            services.AddScoped<IProgramService, ProgramService>();
+            services.AddScoped<IUserEducationDal, EfUserEducation>();
+            services.AddScoped<IUserEducationService, UserEducationService>();
+
+
+
         }
     }
 }

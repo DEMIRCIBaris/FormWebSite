@@ -1,4 +1,5 @@
 using FluentValidation.AspNetCore;
+using FormHelper;
 using FormWebSite.Bussiness.Extensions.DIResolvers;
 using FormWebSite.Bussiness.Extensions.IdentityConfigurations;
 using FormWebSite.Bussiness.Extensions.ValidationConfig;
@@ -31,6 +32,11 @@ namespace FormWebSite.WEB
             services.CookieConfigurations("/Home/Login");
             services.ValidatorConfig();
 
+            services.AddFormHelper(new FormHelperConfiguration
+            {
+                CheckTheFormFieldsMessage = "Form alanlarýný kontrol ediniz."
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,13 +54,17 @@ namespace FormWebSite.WEB
             app.UseAuthentication();
             app.UseAuthorization();
 
+            app.UseFormHelper();
             app.UseStaticFiles();
+          
+
+            
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}"
+                    pattern: "{controller=Account}/{action=LogIn}/{id?}"
                     );
             });
         }

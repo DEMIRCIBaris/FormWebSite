@@ -1,6 +1,10 @@
-﻿namespace FormWebSite.Bussiness.Abstract
+﻿using FormWebSite.Entities.Concrete;
+using System.Collections.Generic;
+
+namespace FormWebSite.Bussiness.Abstract
 {
-    public class IAppUserService
+    public interface IAppUserService
     {
+        public List<UserEducation> GetUserEducations(int userId);
     }
 }

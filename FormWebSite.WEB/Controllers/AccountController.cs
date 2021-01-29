@@ -34,7 +34,7 @@ namespace FormWebSite.WEB.Controllers
             if (user != null)
             {
                 var result = await signInManager.PasswordSignInAsync(user.UserName, model.Password, model.RememberMe, false);
-                return RedirectToAction("Index", "Home"); //sayfa yönlendirme
+                return RedirectToAction("Index", "Form"); //sayfa yönlendirme
             }
             else
             {

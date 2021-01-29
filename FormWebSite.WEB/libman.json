@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.5.1",
+      "destination": "wwwroot/jquery/",
+      "files": [ "jquery.js" ]
+    },
+    {
+      "library": "twitter-bootstrap@4.6.0",
+      "destination": "wwwroot/bootstrap/",
+      "files": [ "css/bootstrap.min.css", "js/bootstrap.bundle.js", "js/bootstrap.js" ]
+    },
+    {
+      "library": "jquery-validate@1.19.2",
+      "destination": "wwwroot/validate/",
+      "files": [ "jquery.validate.js" ]
+    },
+    {
+      "library": "jquery-validation-unobtrusive@3.2.11",
+      "destination": "wwwroot/validate/unobtrusive",
+      "files": [ "jquery.validate.unobtrusive.js" ]
+    },
+    {
+      "library": "tempusdominus-bootstrap-4@5.39.0",
+      "destination": "wwwroot/date/",
+      "files": [ "css/tempusdominus-bootstrap-4.min.css", "js/tempusdominus-bootstrap-4.min.js" ]
+    },
+    {
+      "library": "font-awesome@5.15.2",
+      "destination": "wwwroot/font/",
+      "files": [ "css/all.css", "js/all.js" ]
+    },
+    {
+      "library": "moment.js@2.29.1",
+      "destination": "wwwroot/moment/",
+      "files": [ "moment.min.js" ]
+    },
+    {
+      "library": "moment-timezone@0.5.32",
+      "destination": "wwwroot/moment/",
+      "files": [ "moment-timezone-with-data-10-year-range.js" ]
+    }
+  ]
+}

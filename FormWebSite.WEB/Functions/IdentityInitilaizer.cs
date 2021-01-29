@@ -20,13 +20,12 @@ namespace FormWebSite.WEB.Functions
                 var appuser = new AppUser
                 {
                     UserName = "Dancho",
-                    Name = "Barış",
-                    Surname = "Demirci",
-                    Email = "barisdemirci9401@gmail.com"
                 };
                 await userManager.CreateAsync(appuser, "1");
                 await userManager.AddToRoleAsync(appuser, "Member");
             }
+
+
         }
     }
 }

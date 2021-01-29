@@ -11,6 +11,8 @@ namespace FormWebSite.Bussiness.Extensions.ValidationConfig
         {
             services.AddTransient<IValidator<UserAddDto>, UserAddValidator>();
             services.AddTransient<IValidator<UserSignInDto>, UserSignInValidator>();
+            services.AddTransient<IValidator<UserUpdateDto>, UserUpdateValidator>();
+      
         }
     }
 }

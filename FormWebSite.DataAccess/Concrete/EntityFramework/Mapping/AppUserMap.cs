@@ -8,8 +8,14 @@ namespace FormWebSite.DataAccess.Concrete.EntityFramework.Mapping
     {
         public void Configure(EntityTypeBuilder<AppUser> builder)
         {
+            builder.HasKey(i => i.Id);
+            builder.Property(i => i.Id).UseIdentityColumn();
             builder.Property(i => i.Name).HasMaxLength(100);
             builder.Property(i => i.Surname).HasMaxLength(100);
+
+            builder.HasOne(i => i.Gender).WithMany(i => i.AppUsers).HasForeignKey(i => i.GenderId);
+
+            builder.HasOne(i => i.Program).WithMany(i => i.AppUsers).HasForeignKey(i => i.ProgramId);
         }
     }
 }
